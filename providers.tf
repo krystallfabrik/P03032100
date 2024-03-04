@@ -8,5 +8,5 @@ terraform {
 }
 
 provider "azurerm" {
-  # Cofig or features
+  # Config or features
 }
